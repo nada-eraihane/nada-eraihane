@@ -30,16 +30,23 @@ I'm a Computer Science student turning cool ideas into even cooler code! 💻✨
 - Design Officer 
 - Building real-world projects with passion
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nada-eraihane&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nada-eraihane&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nada-eraihane&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-eraihane&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nada-eraihane&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nada-eraihane&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nada-eraihane&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nada-eraihane-merzoug-21b067265)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadamerzoug@gamil.com)
 
-## 🧪 Fun Fact
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🧪 Fun Fact
 I can’t drink caffeine, but I still outwork half the coffee-fueled coders I know.
+
+
