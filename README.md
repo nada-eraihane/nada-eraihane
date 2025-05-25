@@ -46,7 +46,5 @@ I'm a Computer Science student turning cool ideas into even cooler code! 💻✨
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🧪 Fun Fact
-I can’t drink caffeine, but I still outwork half the coffee-fueled coders I know.
 
 
