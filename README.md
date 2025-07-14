@@ -40,7 +40,7 @@ I'm a Computer Science student turning cool ideas into even cooler code! 💻✨
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nada-eraihane-merzoug-21b067265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nada-merzoug-21b067265)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadamerzoug@gamil.com)
 
 ### ✍️ Random Dev Quote
